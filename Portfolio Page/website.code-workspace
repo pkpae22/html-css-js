@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../website"
+		},
+		{
+			"path": "../HTML"
+		},
+		{
+			"path": "../searchbar"
+		},
+		{
+			"path": "../LOGIN"
+		},
+		{
+			"path": "../LETS CODE THIS"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
